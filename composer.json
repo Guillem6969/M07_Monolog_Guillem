@@ -11,5 +11,7 @@
             "email": "guim.san.oli@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "^3.8"
+    }
 }
