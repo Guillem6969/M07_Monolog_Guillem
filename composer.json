@@ -1,0 +1,15 @@
+{
+    "name": "guims/m07_monolog_guillem",
+    "autoload": {
+        "psr-4": {
+            "Guims\\M07MonologGuillem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guillem6969",
+            "email": "guim.san.oli@gmail.com"
+        }
+    ],
+    "require": {}
+}
